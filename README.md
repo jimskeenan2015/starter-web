@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 ## Purpose
 
+### Deployment
+
 Please fork this repository and issue Pull request for review
 
 Sample website with plenty of files for demos
