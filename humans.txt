@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to all students from Jim Keenan
 
 # TECHNOLOGY COLOPHON
 
